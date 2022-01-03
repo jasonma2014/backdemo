@@ -8,4 +8,3 @@ if __name__ == "__main__":
     cerebro.run()
     print("final Portfolio value: %.2f" % cerebro.broker.get_value())
 
-    print("final")
